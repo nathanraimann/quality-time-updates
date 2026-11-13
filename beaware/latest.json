@@ -1,0 +1,9 @@
+{
+  "package": "de.nathan.beaware",
+  "versionCode": 6,
+  "versionName": "0.2.2",
+  "minSdk": 26,
+  "url": "https://raw.githubusercontent.com/nathanraimann/quality-time-updates/main/beaware/releases/BeAware-0.2.2.apk",
+  "sha256": "514013d270b0624157508a40c214cccd932424c8bb6827e39d451101979c3459",
+  "bytes": 74823
+}
