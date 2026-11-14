@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "package": "de.monatsklar.calendar",
+  "versionCode": 44,
+  "versionName": "0.24.5",
+  "minSdk": 26,
+  "url": "https://raw.githubusercontent.com/nathanraimann/quality-time-updates/main/calendar/releases/thuglife-0.24.5.apk",
+  "sha256": "2aef2ee9ef8a15c7211d9e2b3116a08db806c36ebfafb0c4bc597ea303a3e253",
+  "bytes": 12562441
+}
