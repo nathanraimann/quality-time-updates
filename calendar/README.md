@@ -1,13 +1,9 @@
-# thuglife für Android
+# Thug Life – Android
 
-Version 0.24.5 (vormals Quality Time), Android 8 oder neuer.
+Version 0.24.6 (Code 46) zeigt den App-Titel „Thug Life“ oben und die aktuelle Bubble darunter anstelle des bisherigen Zählers „Neue Termine“. Die Bubble-Auswahl und alle vorhandenen App-Verknüpfungen bleiben erreichbar.
 
-[Installationspaket herunterladen](https://raw.githubusercontent.com/nathanraimann/quality-time-updates/main/calendar/releases/thuglife-0.24.5.apk)
+Alle Stabilitätsverbesserungen aus 0.24.5 bleiben enthalten. Die neuen Kontakt- und Kontofunktionen von 0.25 sind in diesem Paket noch nicht enthalten. Widgets und Launcher-Grafiken bleiben unverändert.
 
-Als Update über die vorhandene App installieren. Bestehende Kalenderdaten und offene Änderungen bleiben erhalten. Eine vollständige Datei gilt auch nach ausgelassenen Zwischenversionen.
+Geprüft: 545 JVM-Tests, 62 native Android-Prüfungen, Release-Build und Lint. Keine Nutzerdaten in der APK. Vorhandene App-Daten bleiben bei einem normalen signaturgleichen Update erhalten.
 
-Neu: zuverlässigere Einzelbestätigungen und Wiederaufnahme offener Änderungen, gezielte Prüfung verschobener Termine, klare Konfliktübersicht mit ursprünglicher Löschabsicht sowie ein dauerhafter Update-Status. Dazu kommen ein geschützter Kalenderexport, Diagnose ohne Termintexte, einheitliche App-Verknüpfungen und fingergeführte Tagesseiten. Der frühere Fotoimport wurde entfernt.
-
-Der geschützte Export umfasst auf dem Handy vorhandene lesbare Termine, offene Änderungen und eigene gesicherte Konfliktfassungen. Die Datei lässt sich mit dem selbst festgelegten Exportpasswort prüfen.
-
-Geprüft: 545 JVM-Tests, 33 Android-Prüfungen, tatsächliche App-Rückwege und Android-Dateiauswahl mit neu gestarteter Oberfläche. Signierer und bisherige öffentliche Konfiguration bleiben erhalten; persönliche Einrichtungsdaten sind nicht enthalten.
+[Signiertes APK herunterladen](releases/thuglife-0.24.6.apk)
